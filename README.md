@@ -1,1 +1,2 @@
-# basicapps
+#https://colab.research.google.com/drive/1J0SJUB4EPnfjHt9J3nkQnD2KoI11IiIU
+This repository includes Python projects showcasing fundamental programming skills. Projects cover formatting floating-point numbers to specific decimal places, implementing conditional logic for tasks such as BMI calculation, restaurant billing with tax and tip, age categorization, and string manipulation. Additionally, there are scripts for basic arithmetic operations, unit conversion from feet to inches, yards, and miles, and handling user input errors effectively. Each project demonstrates practical applications of Python for both novice and intermediate programmers.
